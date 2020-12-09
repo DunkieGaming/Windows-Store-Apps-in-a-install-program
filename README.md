@@ -1,1 +1,1 @@
-This is the open source version of the Easy Survival for self use
+Here I put installers with windows store apps. You can make new requests in the pull requests.
